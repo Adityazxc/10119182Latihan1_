@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--    Last Edit 18-04-22-->
+<!--    10119182-->
+<!--    Aditya Firmansyah-->
+<!--    IF-5-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/dark_green" />
+    <corners
+        android:bottomLeftRadius="8sp"
+        android:topLeftRadius="8sp" />
+</shape>

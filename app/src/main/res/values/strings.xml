@@ -1,0 +1,26 @@
+<!--    Last Edit 18-04-22-->
+<!--    10119182-->
+<!--    Aditya Firmansyah-->
+<!--    IF-5-->
+<resources>
+    <string name="app_name">10119182Latihan1</string>
+    <string name="company_name">DigiTeam</string>
+    <string name="long_name_company">Digital Together Everyone Achieve More \n Jabar Digital Service</string>
+    <string name="position">UI Designer</string>
+    <string name="name">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="head_working_hours">Jam Kerja Bulan Ini</string>
+    <string name="head_your_working">Jam kerja kamu bulan ini: 130.53</string>
+    <string name="your_working">130.53 JAM</string>
+    <string name="minimum_working">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="botton_checkin">Checkin</string>
+    <string name="report">Laporan Kamu</string>
+    <string name="daily_report">Daily Report</string>
+    <string name="maret">Maret</string>
+    <string name="april">April</string>
+    <string name="creat_report">Buat Laporan</string>
+    <string name="permission">Izin</string>
+    <string name="booking">Booking</string>
+    <string name="wiki">Wiki</string>
+    <string name="agenda">Agenda</string>
+    <string name="present">Kehadiaran</string>
+</resources>
